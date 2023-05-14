@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpfpoprizonok"
         mc:Ignorable="d"
+        Icon="Resource/pop.ico"
         Title="Добавить" Height="450" Width="400">
     <Window.Resources>
         <Style x:Key="NullImage" TargetType="Image">
